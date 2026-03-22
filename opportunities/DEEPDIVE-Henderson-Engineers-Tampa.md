@@ -217,10 +217,10 @@
 - ✅ **Tampa-based** - No relocation needed, local network
 
 **⚠️ Partial Matches (Can Be Bridged):**
-- ⚠️ **Limited tenure at AEI (6 months)** - Could raise "why leaving?" question
-  - **Mitigation:** Frame as seeking better culture fit + healthcare specialization depth at firm with HCA relationship
-  - Position as "exploring growth opportunity" not "fleeing bad situation"
-- ⚠️ **Single employer experience** - Normal for early career, not a real concern
+- ⚠️ **18 months experience** - Within Henderson's typical 0-5 year range, but on lower end
+  - **Mitigation:** Emphasize large-scale project complexity (415k SF hospital = beyond typical 1-2 year responsibility)
+  - Highlight rapid skill development (multiple major healthcare projects in short timeframe)
+- ⚠️ **Single employer experience** - Normal for early career, not a concern
 - ⚠️ **No commissioning experience** - Henderson Building Solutions does commissioning; opportunity to learn
   - **Opportunity:** Express interest in learning Cx through sister company collaboration
 
@@ -390,8 +390,8 @@ Sarasota Memorial Healthcare System (415k SF hospital) - Emphasize:
 **Why This Company:**  
 *"Henderson's people-first culture and commitment to technical excellence resonate with my professional values. Your recognition as one of Florida's Healthiest Employers and HCA's Choice Partner designation demonstrate a rare combination of employee-focused culture and client trust. I am particularly excited about the opportunity to contribute to healthcare infrastructure projects that improve patient care, supported by Henderson's national resources and Tampa office's local expertise."*
 
-**Address Experience Gap (6 months at AEI):**  
-*"While I value the foundational MEP experience gained at AEI, I am seeking a long-term home with a firm deeply committed to healthcare facility design and professional development. Henderson's healthcare practice, structured PE mentorship, and collaborative culture align with my career goals. My PE exam preparation is underway, and I am eager to grow with a team that prioritizes both technical excellence and employee success."*
+**Why Henderson Now:**  
+*"With 18 months of MEP design experience across healthcare and pharmaceutical facilities, I've developed a strong foundation in multidisciplinary coordination and building systems design. I'm now seeking to deepen my healthcare specialization with a firm that has a sustained commitment to this sector. Henderson's 20-year partnership with HCA Healthcare, your people-first culture, and structured PE mentorship align perfectly with where I want to build my career long-term. My PE exam preparation is underway, and I am eager to grow with a team that prioritizes both technical excellence and employee success."*
 
 **Closing:**  
 *"I would welcome the opportunity to discuss how my healthcare MEP background, Revit proficiency, and commitment to professional growth can contribute to Henderson's Tampa projects. Thank you for considering my application. I look forward to speaking with you."*
@@ -678,10 +678,10 @@ Attachments:
    - Why Henderson: healthcare passion + people-first culture
    **Practice until conversational, not memorized**
 
-2. **"Why are you leaving AEI after only 6 months?"** (CRITICAL)
+2. **"What attracted you to Henderson, and why are you exploring new opportunities now?"**
    **Recommended Answer:**
-   *"I'm grateful for the experience at AEI—it gave me exposure to healthcare and pharmaceutical MEP design on large-scale projects. However, as I've refined my career goals, I realize I'm seeking a long-term home with a firm deeply committed to healthcare infrastructure. Henderson's 20-year partnership with HCA Healthcare, your people-first culture, and structured professional development align with where I want to build my career. I'm looking for a place to grow for the next 5-10 years, not just the next project."*
-   **Key: Positive framing, focus on Henderson's strengths, career clarity**
+   *"After 18 months of MEP design experience—including healthcare and pharmaceutical facilities—I've developed a clear career direction: I want to specialize in healthcare infrastructure. Henderson's 20-year partnership with HCA Healthcare demonstrates the deep sector commitment I'm looking for. I've learned a tremendous amount at AEI, but I'm seeking a firm where healthcare isn't just one market segment—it's a core practice area with sustained client relationships like your HCA partnership. Your people-first culture and structured PE mentorship make Henderson the ideal place for me to build long-term expertise in this field."*
+   **Key: Positive framing, emphasize proactive career development, Henderson-specific strengths**
 
 3. **"Describe a challenging project and how you overcame obstacles."**
    **Example:** Sarasota Memorial hospital mechanical room spatial coordination
@@ -848,9 +848,10 @@ Attachments:
 5. **Professional credentials:** CPDT + PE track = commitment to excellence
 6. **Cultural alignment:** Collaborative team player (Henderson's emphasis on "people working together")
 
-**Red Flags to Mitigate:**
-- **6-month tenure at AEI:** Frame positively (seeking healthcare specialization depth, not fleeing)
-- **Early career:** Offset with large project scale, professional credentials, maturity
+**Strengths to Emphasize:**
+- **18 months experience:** Solid foundation showing you're past the "brand new grad" phase
+- **Healthcare specialization clarity:** Not exploring different sectors—you know you want healthcare MEP
+- **Large project scale:** 415k SF hospital campus shows readiness for complex work
 
 **Alternative Henderson Pathways (If MEP role doesn't materialize):**
 - **Henderson Building Solutions (HBS):** Construction/commissioning side

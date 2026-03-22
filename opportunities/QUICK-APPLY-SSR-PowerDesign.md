@@ -275,7 +275,10 @@ Both companies have:
 - ✅ MEP focus (matches your background)
 - ✅ Growth mode (SSR acquired GFY, Power Design 187+ jobs)
 
-**Advantage:** Local firms often prefer local candidates (USF Tampa education = Florida network, no relocation risk)
+**Your Advantage:** 
+- Local candidate (USF Tampa = Florida network, no relocation risk)
+- 18 months experience (past "brand new grad" phase, solid foundation)
+- Healthcare + pharma portfolio (specialization clarity)
 
 **Timeline:** Posted jobs = apply ASAP (roles can close when filled, not on schedule)
 

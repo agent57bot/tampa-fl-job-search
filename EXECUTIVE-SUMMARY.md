@@ -1,7 +1,7 @@
 # Executive Summary: Tampa Job Search Strategy
 
 **Repo:** https://github.com/agent57bot/tampa-fl-job-search  
-**Candidate Profile:** BS Mechanical Engineering (USF 2023), Piping Engineer at AEI, Healthcare + Pharma MEP experience  
+**Candidate Profile:** BS Mechanical Engineering (USF 2023), 18 months experience, Piping Engineer at AEI, Healthcare + Pharma MEP experience  
 **Target Market:** Tampa/Florida MEP engineering roles  
 **Created:** 2025-03-16
 
@@ -24,7 +24,8 @@
 
 **Competitive Advantages Identified:**
 - Local USF Tampa education (network + Florida code knowledge)
-- 415k SF hospital campus experience (beyond typical 0-1 year engineer)
+- 18 months professional MEP experience (solid foundation, past "brand new grad" phase)
+- 415k SF hospital campus experience (significant complexity for 1-2 year experience level)
 - Pharmaceutical cleanroom MEP (rare specialty)
 - CPDT certification + PE track (professional commitment)
 
@@ -144,8 +145,8 @@ For each target opportunity, a **7-part comprehensive analysis:**
 - Fire protection + plumbing multi-discipline capability
 - CPDT certification + ASPE membership (professional credentials)
 
-**⚠️ Mitigatable:**
-- 6-month AEI tenure (frame as seeking healthcare specialization depth + culture fit)
+**⚠️ Minimal Concerns:**
+- 18 months experience places you solidly in 1-3 year range (target market for most "early-mid career" roles)
 
 ### Application Strategy
 **Recommended Approach:** Proactive email application (no specific posting yet, but firm is hiring nationally)

@@ -1,7 +1,7 @@
 # Tampa/Florida Job Market Research - MEP/Piping Engineering
 
 **Research Date:** March 16, 2025  
-**Target Profile:** Early-career Mechanical Engineer (BS 2023, USF Tampa), MEP specialization, healthcare/pharma experience
+**Target Profile:** Mechanical Engineer with 18 months experience (BS 2023, USF Tampa), MEP specialization, healthcare/pharma experience
 
 ---
 
@@ -99,15 +99,16 @@
 ### Strengths (vs. typical early-career candidate)
 1. **Local education + current Tampa employment** → knows Florida codes, local network
 2. **Healthcare MEP experience** → highest-demand sector in Tampa Bay
-3. **Large-scale projects** (415k SF hospital campus) → beyond typical 0-1 year experience
-4. **Pharmaceutical experience** → rare specialty, differentiator
-5. **Working toward PE** → demonstrates commitment to profession
-6. **CPDT certification** → ASPE credential shows specialty focus
-7. **Revit + Bluebeam proficiency** → industry-standard BIM tools
+3. **18 months professional experience** → solid foundation in MEP design workflows
+4. **Large-scale projects** (415k SF hospital campus) → significant complexity for 1-2 year experience level
+5. **Pharmaceutical experience** → rare specialty, differentiator
+6. **Working toward PE** → demonstrates commitment to profession
+7. **CPDT certification** → ASPE credential shows specialty focus
+8. **Revit + Bluebeam proficiency** → industry-standard BIM tools
 
 ### Development Areas
-1. **Limited tenure at current role** (6 months) → May raise "job hopper" concern
-   - **Mitigation:** Frame as seeking better fit/growth opportunity, not dissatisfaction
+1. **Moderate tenure at current role** (~7-8 months at AEI as of March 2025) → Normal for exploring next opportunity at 18-month career mark
+   - **Mitigation:** Frame as proactive career development, seeking specialized healthcare/fire protection track
 2. **No NICET fire protection certification** → Could add credibility for FP roles
 3. **Single employer experience** → Normal for early career, not a red flag
 
