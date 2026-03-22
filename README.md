@@ -5,7 +5,7 @@
 **Background:**
 - BS Mechanical Engineering, University of South Florida (Dec 2023), GPA 3.0
 - Current: Piping Engineer at Affiliated Engineers, Inc. (AEI), Tampa, FL (Aug 2024-Present)
-- ~6 months professional experience post-graduation
+- ~18 months professional experience post-graduation
 
 **Expertise:**
 - MEP design (plumbing, fire protection systems)
