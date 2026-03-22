@@ -6,6 +6,82 @@
 
 ## Tier 1: Healthcare MEP Specialists (Best Fit)
 
+### SSR (Smith Seckman Reid, Inc.) - Sarasota/Tampa
+**Website:** https://www.ssr-inc.com/  
+**Headquarters:** Nashville, TN  
+**Employee Count:** 550+ colleagues  
+**Sarasota Office:** 301 N Cattlemen Rd, Ste 300, Sarasota, FL 34232
+
+**Why Target:**
+- **100% ESOP-owned** (Employee Stock Ownership Plan - every employee is an owner from day 1)
+- MEP/FP engineering design + consulting
+- **Active hiring:** 48 jobs in Sarasota, 173 total
+- **Specific opening:** Mechanical Engineer in Sarasota ($78,500-$121,900)
+- **Tampa roles:** Commissioning EIT (Mechanical) in Tampa
+- Comprehensive services: Mechanical, Electrical, Plumbing, Fire Protection, Commissioning, Controls, Structural, Sustainability
+- Recently acquired GFY (106-year Florida infrastructure firm) - expansion mode
+
+**Relevant Roles:**
+- Mechanical Engineer (Sarasota - ACTIVE POSTING)
+- Commissioning EIT I (Mechanical) (Tampa)
+- Plumbing Designer/Engineer
+
+**Application Strategy:**
+- Emphasize ESOP ownership culture (everyone invested in success)
+- Highlight Florida presence (Sarasota office close to Tampa Bay)
+- Sustainability focus (LEED projects, FDD systems, Building Performance Monitoring)
+- Healthcare + commercial portfolio
+
+**Contacts to Research:**
+- Sarasota office leadership
+- Mechanical engineering team leads
+- USF alumni at SSR
+
+**Status:** **HIGH PRIORITY - ACTIVE POSTING** - Apply Week 1
+
+---
+
+### Power Design, Inc. - St. Petersburg/Tampa
+**Website:** https://www.powerdesigninc.us/  
+**Headquarters:** St. Petersburg, FL (Tampa Bay area)  
+**Founded:** 1989  
+**Employee Count:** 1,000+ nationally
+
+**Why Target:**
+- **National design-build contractor** - Electrical, Mechanical, Plumbing, Systems Technologies
+- **Tampa Bay HQ** - St. Petersburg office is headquarters
+- **Active hiring:** 187+ open jobs nationally, 72 in St. Pete, 44 in Tampa
+- **Specific openings:**
+  - Mechanical Designer (St. Petersburg, $65k-$92k)
+  - Engineering Project Manager (St. Pete, $90k-$133k)
+  - Plumbing Superintendent
+- **Major local project:** Pendry Tampa luxury hotel (MEP infrastructure)
+- **USA Today Top Workplace** + **ENR Top 100 General Contractors**
+- **MEP Engineering Giant** recognition
+
+**Relevant Roles:**
+- Mechanical Designer (St. Petersburg - ACTIVE)
+- Engineering Project Manager (St. Pete - ACTIVE)
+- Plumbing Designer
+- MEP Coordinator
+- Construction Specialist (MEP projects)
+
+**Application Strategy:**
+- Local HQ advantage (St. Pete is Tampa Bay area, easy commute)
+- Design-build experience (different from pure consulting, but MEP design + construction coordination)
+- Emphasize Revit/BIM skills (design-build relies on coordination)
+- Highlight large-scale project experience (415k SF hospital = comparable to their high-rise/hospitality work)
+- Apprenticeship program available (if interested in field experience pathway)
+
+**Contacts to Research:**
+- St. Petersburg office mechanical team
+- Hiring managers for open roles
+- LinkedIn: Power Design Inc. (40,000+ followers)
+
+**Status:** **HIGH PRIORITY - MULTIPLE ACTIVE POSTINGS** - Apply Week 1
+
+---
+
 ### Henderson Engineers - Tampa Office
 **Website:** https://www.hendersonengineers.com/location/tampa/  
 **Headquarters:** Lenexa, KS (national firm)  
