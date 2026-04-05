@@ -23,7 +23,7 @@ This comprehensive guide covers technical, behavioral, and fit questions for Plu
 
 ## **Part 2: Motivation & Fit Questions**
 
-### **2) Why are you interested in [Company Name]?**
+### **2) Why are you interested in BR+A?**
 
 **Preparation tips:**
 - Research the firm's project portfolio, specialties, and reputation
@@ -31,7 +31,7 @@ This comprehensive guide covers technical, behavioral, and fit questions for Plu
 - Note any industry leadership, awards, or unique design approaches
 - Show you've done homework on recent projects
 
-### **3) Why do you want to leave [current employer]?**
+### **3) Why do you want to leave AEI?**
 
 **Stay positive—focus on what you're moving toward, not what you're escaping**
 
